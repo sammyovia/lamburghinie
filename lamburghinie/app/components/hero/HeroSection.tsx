@@ -1,6 +1,6 @@
 import React from "react";
 
-const HeroSection: React.FC<{ image: string; buttonText: string }> = ({ image, buttonText }) => {
+const HeroSection: React.FC = () => {
   return (
     <div className="flex items-center justify-between bg-gray-100 p-8">
       <div className="flex flex-col items-center">
