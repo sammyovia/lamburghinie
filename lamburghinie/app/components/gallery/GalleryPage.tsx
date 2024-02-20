@@ -14,7 +14,7 @@ const GalleryPage: React.FC = () => {
 
   return (
     <div>
-      <h1 className="text-2xl font-bold mb-4">Image Gallery</h1>
+      <h1 className="text-2xl font-bold mb-4">Explore spaces</h1>
       <ImageGallery images={images} />
     </div>
   );
