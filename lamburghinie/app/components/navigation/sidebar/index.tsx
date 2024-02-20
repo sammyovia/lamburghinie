@@ -47,9 +47,11 @@ const Sidebar = ({
               <p>Contacts</p>
             </Link>
           </li>
-<li>                                                <Link href="/pricing" onClick={toggle}>
+          <li>
+            <Link href="/pricing" onClick={toggle}>
               <p>Pricing</p>
-            </Link>                                         </li>
+            </Link>
+            </li>
         </ul>
       </div>
     </>

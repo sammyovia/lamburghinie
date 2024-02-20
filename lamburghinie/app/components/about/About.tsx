@@ -7,7 +7,7 @@ const About: React.FC = () => {
       <div className="flex flex-col items-center justify-center">
         <img src="https://via.placeholder.com/400" alt="About Us" className="rounded-lg mb-4" />
         <p className="text-lg text-gray-600">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in magna in enim bibendum lobortis nec id libero.
+          Lamburghninie is a Hospitality service company that offers unique services to clients from accomodations, workspaces, short stays, luxurious ride sharing and Event centers. Our accomodations comes with exquisite meals. All of our services can be accessed at your finger tips, or at your voice command.
         </p>
       </div>
     </div>

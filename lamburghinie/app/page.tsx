@@ -9,7 +9,11 @@ export default function Home() {
   return (
     <main className="min-h-screen flex flex-col text-center justify-center items-center">
 <div className="flex flex-col items-center justify-evenly min-h-screen">
-<HeroSection/>                                    <LandingPage />                                     <GalleryPage />                                  <About/>                                        <Footer/>
+<HeroSection/> 
+<About/>                                    
+<LandingPage />                                     
+<GalleryPage />                                                                         
+<Footer/>
 </div>
 </main>
   );
